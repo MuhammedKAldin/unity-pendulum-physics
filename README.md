@@ -5,6 +5,7 @@ pendulum physics and verlet velocity in action.
 
 Check list :
 - Parenting target and handling physics correctly
+- Swinging physics
 - Momentum based on verlet velocity
 - Constraint length adaption to distance from pivot point
 - Air ressistance in opposite direction
