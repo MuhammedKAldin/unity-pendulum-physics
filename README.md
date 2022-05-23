@@ -8,3 +8,4 @@ Check list :
 - Constraint length adaption to distance from pivot point
 - Air ressistance in opposite direction
 - Cap speed limit, preventing Flash <img src="https://th.bing.com/th/id/OIP.r95UKzZ1V2kK5RDZsXIbCwHaHS?pid=ImgDet&rs=1" width="40px"> Speed from happening eventually.
+- Dynamicly change pivot point to move according to it
