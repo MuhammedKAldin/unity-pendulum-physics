@@ -13,10 +13,11 @@ public class Swing : MonoBehaviour
         pendulum.Initalise();
     }
 
-    // Update is called once per frame
-    void Update()
+    // FixedUpdate for the Physics based movement
+    void FixedUpdate()
     {
-        transform.localPosition = pendulum.MoveBob(transform.localPosition, Time.deltaTime);
+        // Time.fixedDeltaTime doesn’t care about the interval between frames and will always give you the Fixed Timestep value
+        transform.localPosition = pendulum.MoveBob(transform.localPosition, Time.fixedDeltaTime);
 
     }
 }
