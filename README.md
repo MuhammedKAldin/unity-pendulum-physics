@@ -7,4 +7,4 @@ Check list :
 - Momentum physics based
 - Constraint length adaption to distance from pivot point
 - Air ressistance in opposite direction
-- Cap speed limit, preventing <span>Flash<img src="https://th.bing.com/th/id/OIP.r95UKzZ1V2kK5RDZsXIbCwHaHS?pid=ImgDet&rs=1" width="40px" >Speed</> from happening eventually.
+- Cap speed limit, preventing <span color="red">Flash</span><img src="https://th.bing.com/th/id/OIP.r95UKzZ1V2kK5RDZsXIbCwHaHS?pid=ImgDet&rs=1" width="40px">Speed from happening eventually.
